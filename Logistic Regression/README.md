@@ -1,14 +1,14 @@
 
 # Identify whether a banking customer has churned out or not
 
-Convert Business Problem to Data Science Problem
+## Convert Business Problem to Data Science Problem
 
-Business Problem
+### Business Problem
 
     * XYX bank wants to indetify if the customer has left the bank i.e. he/she has churned 
        out or is still associate with the bank.
 
-Data Science Problem
+### Data Science Problem
 
     * Build a classification engine which classifies a customer if he/she has churned out 
       of the bank or not,based on various features like credit score,balance,tenure,gender etc.
